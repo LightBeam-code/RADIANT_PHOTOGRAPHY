@@ -17,7 +17,7 @@ body,html {
     width: 100%;
     height: 100%;
     justify-content: center;;
-    background-image: url(/Images/Img1.jpg);
+    background-image: url(Img1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
